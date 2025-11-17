@@ -1,0 +1,7 @@
+Metric,Fellowship,Two Towers,Return of the King
+Mean sentence length,16.872223277007784,15.152844887092003,18.732259408415498
+Median sentence length,14.0,12.0,15.0
+Standard Deviation,11.180153140218462,10.752759696153692,14.033634464520217
+Shortest sentence (words),3.0,3.0,3.0
+Longest sentence (words),142.0,89.0,142.0
+Total sentences,10534.0,10141.0,7201.0
